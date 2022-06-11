@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:FFB310,100:115DFF&height=300&section=header&text=WooWon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFB310,100:115DFF&height=300&section=header&text=WooWon&fontSize=90)
 
 ## 반갑습니다! 우원입니다.
 ### 요람에서 코드까지!
