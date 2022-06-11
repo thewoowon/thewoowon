@@ -3,6 +3,10 @@
 ## 반갑습니다! 우원입니다.
 ### 요람에서 코드까지!
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
 저는 C#과 React(Typescript), Python을 즐겨 사용합니다.
 현재는 부산에서 근무 중이고, 항상 성장하기 위해 노력하고 있습니다.
 "요람에서 코드까지"라는 모토처럼
