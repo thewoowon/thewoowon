@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFB310,100:115DFF&height=300&section=header&text=WooWon&fontSize=90)
 
 ## 반갑습니다! 우원입니다.
+
 ### 요람에서 코드까지!
 <div style="display:flex;">
   <img alt="dotnet" src ="https://img.shields.io/badge/dotnet-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -21,9 +22,14 @@
   <img alt="numpy" src ="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
+</br>
+</br>
 저는 C#과 React(Typescript), Python을 즐겨 사용합니다.
+</br>
 현재는 부산에서 근무 중이고, 항상 성장하기 위해 노력하고 있습니다.
+</br>
 "요람에서 코드까지"라는 모토처럼
+</br>
 진정성있는 코드를 위해 항상 노력하는 개발자가 되겠습니다.
 
 
