@@ -2,11 +2,12 @@
 
 ## 반갑습니다! 우원입니다.
 ### 요람에서 코드까지!
-
-<img alt="dotnet" src ="https://img.shields.io/badge/dotnet-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img alt="csharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
-<img alt="microsoftsqlserver" src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<div style="display:flex;">
+  <img alt="dotnet" src ="https://img.shields.io/badge/dotnet-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img alt="csharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="microsoftsqlserver" src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</div>
 </br>
 <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
