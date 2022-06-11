@@ -8,19 +8,19 @@
   <img alt="csharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
   <img alt="microsoftsqlserver" src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
-</br>
-<img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="graphql" src ="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
-<img alt="apollographql" src ="https://img.shields.io/badge/apollographql-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
-<img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="mysql" src ="https://img.shields.io/badge/apollographql-4479A1.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
-
-</br>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="numpy" src ="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-
+<div style="display:flex;">
+  <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="graphql" src ="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img alt="apollographql" src ="https://img.shields.io/badge/apollographql-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
+  <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="mysql" src ="https://img.shields.io/badge/apollographql-4479A1.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
+</div>
+<div style="display:flex;">
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="numpy" src ="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+</div>
 저는 C#과 React(Typescript), Python을 즐겨 사용합니다.
 현재는 부산에서 근무 중이고, 항상 성장하기 위해 노력하고 있습니다.
 "요람에서 코드까지"라는 모토처럼
