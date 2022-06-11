@@ -15,7 +15,7 @@
   <img alt="graphql" src ="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img alt="apollographql" src ="https://img.shields.io/badge/apollographql-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
   <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="mysql" src ="https://img.shields.io/badge/apollographql-4479A1.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
+  <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <div style="display:flex;">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
