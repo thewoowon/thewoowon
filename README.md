@@ -34,9 +34,9 @@
 
 
 
-## #1. 프로젝트
+## 프로젝트
 
-### C#으로 진행하는 프로젝트입니다.
+### #1. C#으로 진행하는 프로젝트입니다.
 - Bot Framework, Chat Bot -> 봇 프레임워크로 제작한 챗봇입니다.
 ```sh
 https://github.com/thewoowon/SolvaBot
@@ -50,7 +50,7 @@ https://github.com/thewoowon/SolvaBotManager
 https://github.com/thewoowon/SolvaBlazorBoard
 ```
 
-### React로 진행하는 프로젝트입니다.
+### #2. React로 진행하는 프로젝트입니다.
 - Velog Copy App, Hoodie-O() -> 벨로그 완전 카피, 나만의 블로그 앱입니다.
 ```sh
 https://github.com/thewoowon/Hoodie-o
@@ -60,7 +60,7 @@ https://github.com/thewoowon/Hoodie-o
 https://github.com/thewoowon/agiler
 ```
 
-### Python으로 진행하는 프로젝트입니다.
+### #3. Python으로 진행하는 프로젝트입니다.
 - DEF Project() -> 요소수 현황 프로젝트입니다
 ```sh
 https://github.com/thewoowon/DEF-Project
