@@ -4,7 +4,7 @@
 ### 요람에서 코드까지!
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="dotnet" src ="https://img.shields.io/badge/dotnet-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 저는 C#과 React(Typescript), Python을 즐겨 사용합니다.
