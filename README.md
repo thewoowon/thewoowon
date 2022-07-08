@@ -38,7 +38,7 @@
 
 </br>
 <h4 align="center">저는 C#과 React(Typescript), Python을 즐겨 사용합니다.</h4>
-<h4 align="center">현재는 부산에서 근무 중이고, 항상 성장하기 위해 노력하고 있습니다.</h4>
+<h4 align="center">서울에서 근무 중이고, 항상 성장하기 위해 노력하고 있습니다.</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewoowon&theme=cobalt2&show_icons=true"/>
