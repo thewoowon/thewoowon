@@ -56,32 +56,36 @@
 # 프로젝트
 
 ## #1. C#으로 진행하는 프로젝트입니다.
-- Bot Framework, Chat Bot -> 봇 프레임워크로 제작한 챗봇입니다.
+- Bot Framework, Chat Bot => 봇 프레임워크로 제작한 챗봇입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SolvaBot)](https://github.com/thewoowon/SolvaBot)
 
-- Blazor, Chat Bot Manager() -> 블레이저를 활용한 챗봇 매니저입니다.
+- Blazor, Chat Bot Manager() => 블레이저를 활용한 챗봇 매니저입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SolvaBotManager)](https://github.com/thewoowon/SolvaBotManager)
 
-- Blazor, Agora() -> 블레이저를 활용한 사내 아고라입니다.
+- Blazor, Agora() => 블레이저를 활용한 사내 아고라입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SolvaBlazorBoard)](https://github.com/thewoowon/SolvaBlazorBoard)
 
 ## #2. React로 진행하는 프로젝트입니다.
-- Velog Copy App, Hoodie-O() -> 벨로그 완전 카피, 나만의 블로그 앱입니다.
+- Velog Copy App, Hoodie-O() => 벨로그 완전 카피, 나만의 블로그 앱입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=Hoodie-o)](https://github.com/thewoowon/Hoodie-o)
 
-- Agile Software Development, Agiler() -> 애자일 방법론, 4가지 애자일 패턴으로 프로젝트를 관리하는 앱입니다.
+- Agile Software Development, Agiler() => 애자일 방법론, 4가지 애자일 패턴으로 프로젝트를 관리하는 앱입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=agiler)](https://github.com/thewoowon/agiler)
 
+- 사내 블로그 제작, UBTECH() => NEXT.js로 제작한 정적 블로그입니다.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubtech)](https://github.com/thewoowon/ubtech)
+
 
 ## #3. Python으로 진행하는 프로젝트입니다.
-- DEF Project() -> 요소수 현황 프로젝트입니다
+- DEF Project() => 요소수 현황 프로젝트입니다
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=DEF-Project)](https://github.com/thewoowon/DEF-Project)
 
-- Weather Intellisense() -> 기후 정보와 현황에 대한 프로젝트입니다.
+- Weather Intellisense() => 기후 정보와 현황에 대한 프로젝트입니다.
 준비중입니다.
