@@ -6,11 +6,6 @@
 <p align="center">
 <img width="827" alt="FromCradleString" src="https://user-images.githubusercontent.com/60413257/173494605-44962bfe-7c11-4b26-ace4-314ed8381965.png">
 </p>
-<h2 align="center">반갑습니다! 우원입니다.</h2>
-<h3 align="center">From Cradle To Code!</h3>
-<h3 align="center">요람에서 코드까지!</h3>
-</br>
-</br>
 
 <h1 align="center">My Stack</h1>
 <h3 align="center">📟 .NET 📟</h3>
@@ -36,10 +31,13 @@
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
+<h2 align="center">반갑습니다! 우원입니다.</h2>
+<h3 align="center">From Cradle To Code!</h3>
+<h3 align="center">요람에서 코드까지!</h3>
 </br>
 <h4 align="center">저는 C#과 React(Typescript), Python을 즐겨 사용합니다.</h4>
 <h4 align="center">서울에서 근무하고 있습니다.</h4>
-
+</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewoowon&theme=cobalt2&show_icons=true"/>
 </p>
