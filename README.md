@@ -30,9 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewoowon&theme=cobalt2&show_icons=true"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewoowon&layout=compact&theme=cobalt2"/>
-</p>
 </br>
 
 # 프로젝트
