@@ -1,12 +1,7 @@
-
-  
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB310,100:115DFF&height=300&section=header&text=WooWon&fontSize=90"/>
-</p>
 <p align="center">
 <img width="827" alt="FromCradleString" src="https://user-images.githubusercontent.com/60413257/173494605-44962bfe-7c11-4b26-ace4-314ed8381965.png">
 </p>
-<h2 align="center">반갑습니다! 우원입니다.</h2>
+<h1 align="center">반갑습니다! 우원입니다.</h1>
 <h3 align="center">From Cradle To Code!</h3>
 <h3 align="center">요람에서 코드까지!</h3>
 </br>
