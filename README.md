@@ -50,7 +50,7 @@
 
 - Agile Software Development, Hi Agile() => 애자일 방법론, 4가지 애자일 패턴으로 프로젝트를 관리하는 앱입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=HIAGILE/client)](https://github.com/HIAGILE/client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HIAGILE&repo=client)](https://github.com/HIAGILE/client)
 
 - Salad Peace () => 빌딩 단위 선착순 샐러드 판매
  
