@@ -29,7 +29,7 @@
 
 # 프로젝트
 
-## #1. C#으로 진행하는 프로젝트입니다.
+## #1. C#으로 진행한 프로젝트입니다.
 - Bot Framework, Chat Bot => 봇 프레임워크로 제작한 챗봇입니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SolvaBot)](https://github.com/thewoowon/SolvaBot)
@@ -43,20 +43,33 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SolvaBlazorBoard)](https://github.com/thewoowon/SolvaBlazorBoard)
 
 ## #2. React로 진행하는 프로젝트입니다.
-- Velog Copy App, Hoodie-O() => 벨로그 완전 카피, 나만의 블로그 앱입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=Hoodie-o)](https://github.com/thewoowon/Hoodie-o)
+- Uber Eats () => 우버이츠 클론
 
-- Agile Software Development, Agiler() => 애자일 방법론, 4가지 애자일 패턴으로 프로젝트를 관리하는 앱입니다.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=UberEatsFrontEnd)](https://github.com/thewoowon/UberEatsFrontEnd)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=agiler)](https://github.com/thewoowon/agiler)
+- Agile Software Development, Hi Agile() => 애자일 방법론, 4가지 애자일 패턴으로 프로젝트를 관리하는 앱입니다.
 
-- 사내 블로그 제작, UBTECH() => NEXT.js로 제작한 정적 블로그입니다.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=HIAGILE/client)](https://github.com/HIAGILE/client)
+
+- Salad Peace () => 빌딩 단위 선착순 샐러드 판매
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=SaladPeaceFrontEnd)](https://github.com/SaladPeaceFrontEnd)
+
+## #3 NEXT.js로 진행한 프로젝트입니다.
+
+- 기술블로그, UBTECH() => NEXT.js로 제작한 정적 블로그입니다.(1차 베타, https://ub-tech.vercel.app/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubtech)](https://github.com/thewoowon/ubtech)
 
+## #4 Nest.js로 진행한 프로젝트입니다.
 
-## #3. Python으로 진행하는 프로젝트입니다.
+- Uber Eats () => 우버이츠 클론
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=UberEatsBackEnd)](https://github.com/thewoowon/UberEatsBackEnd)
+
+
+## #4. Python으로 진행하는 프로젝트입니다.
 - DEF Project() => 요소수 현황 프로젝트입니다
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=DEF-Project)](https://github.com/thewoowon/DEF-Project)
