@@ -18,8 +18,8 @@
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<h4 align="center">React, NEXT.js, Nest.js, Python을 즐겨 사용합니다.</h4>
-<h4 align="center">서울에서 근무하고 있습니다.</h4>
+<p align="center">React, NEXT.js, Nest.js, Python을 즐겨 사용합니다.</p>
+<p align="center">서울에서 근무하고 있습니다.</p>
 
 # 프로젝트
 
