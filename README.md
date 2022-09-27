@@ -50,7 +50,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KURLY-HACK-FESTA-2022&repo=client)](https://github.com/KURLY-HACK-FESTA-2022/client.git)
 
-- Salad Peace = () => 빌딩 단위 선착순 샐러드 판매
+- salad peace = () => 빌딩 단위 선착순 샐러드 판매
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-frontend)](https://github.com/thewoowon/salad-peace-frontend.git)
 
