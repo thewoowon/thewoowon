@@ -48,7 +48,7 @@
 
 - kurly hackathon () => 마켓 컬리 해커톤
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=client)](https://github.com/KURLY-HACK-FESTA-2022/client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=client)](https://github.com/KURLY-HACK-FESTA-2022/client.git)
 
 - Salad Peace () => 빌딩 단위 선착순 샐러드 판매
  
@@ -56,7 +56,7 @@
 
 ## #3 NEXT.js로 진행한 프로젝트입니다.
 
-- 기술블로그, UBTECH() => NEXT.js로 제작한 정적 블로그입니다.(1차 베타, https://ub-tech.vercel.app/)
+- 기술블로그, Ubtech() => NEXT.js로 제작한 정적 블로그입니다.(1차 베타, https://ub-tech.vercel.app/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubtech)](https://github.com/thewoowon/ubtech)
 
