@@ -46,6 +46,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HIAGILE&repo=client)](https://github.com/HIAGILE/client)
 
+- kurly hackathon () => 마켓 컬리 해커톤
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=client)](https://github.com/KURLY-HACK-FESTA-2022/client)
+
 - Salad Peace () => 빌딩 단위 선착순 샐러드 판매
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-frontend)](https://github.com/thewoowon/salad-peace-frontend.git)
@@ -60,7 +64,7 @@
 
 - Uber Eats () => 우버이츠 클론
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=UberEatsBackEnd)](https://github.com/thewoowon/ubereats-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-backend)](https://github.com/thewoowon/ubereats-backend)
 
 ## #5 Django를 활용한 프로젝트입니다.
 - Airbnb () => 에어비앤비 클론
@@ -70,5 +74,5 @@
 ## #6. Python으로 진행하는 프로젝트입니다.
 - DEF Project() => 요소수 현황 프로젝트입니다
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=DEF-Project)](https://github.com/thewoowon/DEF-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=def)](https://github.com/thewoowon/def)
 
