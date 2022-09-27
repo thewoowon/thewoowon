@@ -66,6 +66,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-backend)](https://github.com/thewoowon/ubereats-backend)
 
+- salad pease = () => 빌딩 단위 선착순 샐러드 판매
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-frontend)](https://github.com/thewoowon/ubereats-frontend)
+
 ## #5 Django를 활용한 프로젝트입니다.
 - airbnb = () => 에어비앤비 클론
 
