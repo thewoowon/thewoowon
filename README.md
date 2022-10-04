@@ -26,7 +26,7 @@
 ## #1. .NET을 활용한 프로젝트입니다.
 - bot framework, chat bot = () => 봇 프레임워크로 제작한 챗봇입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot)](https://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@github.com/thewoowon/solva-bot.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot&token=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)](https://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@github.com/thewoowon/solva-bot.git)
 
 - blazor, chat bot manager = () => 블레이저를 활용한 챗봇 매니저입니다.
 
