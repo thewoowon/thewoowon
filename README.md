@@ -26,57 +26,57 @@
 ## #1. .NET을 활용한 프로젝트입니다.
 - bot framework, chat bot = () => 봇 프레임워크로 제작한 챗봇입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot)](https://github.com/thewoowon/solva-bot.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot)](https://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@github.com/thewoowon/solva-bot.git)
 
 - blazor, chat bot manager = () => 블레이저를 활용한 챗봇 매니저입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot-manager)](https://github.com/thewoowon/solva-bot-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-bot-manager)](https://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@github.com/thewoowon/solva-bot-manager)
 
 - blazor, agora = () => 블레이저를 활용한 사내 아고라입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-blazor-board)](https://github.com/thewoowon/solva-blazor-board)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=solva-blazor-board)](https://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@github.com/thewoowon/solva-blazor-board)
 
 ## #2. React를 활용한 프로젝트입니다.
 
 - uber eats = () => 우버이츠 클론
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-frontend)](https://github.com/thewoowon/ubereats-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-frontend)](https://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@github.com/thewoowon/ubereats-frontend)
 
 - agile software development, hi agile() => 애자일 방법론
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HIAGILE&repo=client)](https://github.com/HIAGILE/client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HIAGILE&repo=client)](https://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@github.com/HIAGILE/client)
 
 - kurly hackathon = () => 마켓 컬리 해커톤
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KURLY-HACK-FESTA-2022&repo=client)](https://github.com/KURLY-HACK-FESTA-2022/client.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KURLY-HACK-FESTA-2022&repo=client)](https://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@github.com/KURLY-HACK-FESTA-2022/client.git)
 
 - salad peace = () => 빌딩 단위 선착순 샐러드 판매
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-frontend)](https://github.com/thewoowon/salad-peace-frontend.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-frontend)](https://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@github.com/thewoowon/salad-peace-frontend.git)
 
 ## #3 NEXT.js로 진행한 프로젝트입니다.
 
 - 기술블로그, ubtech = () => NEXT.js로 제작한 정적 블로그입니다.(1차 베타, https://ub-tech.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubtech)](https://github.com/thewoowon/ubtech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubtech)](https://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@github.com/thewoowon/ubtech)
 
 ## #4 Nest.js를 활용한 프로젝트입니다.
 
 - uber eats = () => 우버이츠 클론
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-backend)](https://github.com/thewoowon/ubereats-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=ubereats-backend)](https://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@github.com/thewoowon/ubereats-backend)
 
 - salad pease = () => 빌딩 단위 선착순 샐러드 판매
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-backend)](https://github.com/thewoowon/salad-peace-backend.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=salad-peace-backend)](https://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@github.com/thewoowon/salad-peace-backend.git)
 
 ## #5 Django를 활용한 프로젝트입니다.
 - airbnb = () => 에어비앤비 클론
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=airbnb-backend)](https://github.com/thewoowon/airbnb-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=airbnb-backend)](https://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@github.com/thewoowon/airbnb-backend)
 
 ## #6. Python으로 진행하는 프로젝트입니다.
 - def = () => 요소수 현황 프로젝트입니다
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=def)](https://github.com/thewoowon/def)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewoowon&repo=def)](https://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@github.com/thewoowon/def)
 
