@@ -16,8 +16,4 @@
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<p>React, NEXT.js, Nest.js, Python을 즐겨 사용합니다.</p>
-<p>서울에서 근무하고 있습니다.</p>
-
-
 <a align="center">[![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)  </a>
