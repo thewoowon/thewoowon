@@ -16,4 +16,6 @@
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<a align="center">[![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)  </a>
+
+[![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)
+
