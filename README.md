@@ -20,3 +20,5 @@
 </p>
 <p align="center">React, NEXT.js, Nest.js, Python을 즐겨 사용합니다.</p>
 <p align="center">서울에서 근무하고 있습니다.</p>
+
+[![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)
