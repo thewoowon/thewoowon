@@ -1,3 +1,4 @@
+<img alt="" src="https://user-images.githubusercontent.com/60413257/204310989-4871ab0f-b2e9-48ee-a18a-982b3a722820.gif" style="width:300px;"></img>
 <p>안녕하세요 👋<br/>
 새로운 영감을 주는 일과 꾸준한 성장을 즐기는<br/>
 주니어 개발자 우원입니다.
@@ -30,4 +31,3 @@
 </p>
 
 [![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)
-
