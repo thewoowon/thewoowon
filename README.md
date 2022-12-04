@@ -15,6 +15,8 @@
 <a href="https://my-tech-blog-beta.vercel.app/" target="_blank">우원의 기술 블로그</a>
 <h4>😄 우원의 포트폴리오</h4>
 <a href="https://my-tech-blog-beta.vercel.app/" target="_blank">우원의 포트폴리오</a>
+<h4>😄 우원의 노션 포트폴리오</h4>
+<a href="https://woowon.oopy.io/" target="_blank">우원의 노션 포트폴리오</a>
 <h3>Front-End Stack</h3>
 <p>
   <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
