@@ -12,9 +12,9 @@
 🙌 꾸준한 성장
 </p>
 <h4>🧐 운영중인 기술 블로그</h4>
-<a href="https://my-tech-blog-beta.vercel.app/" target="_blank">우원의 기술 블로그</a>
+<a href="https://thewoowon.com/" target="_blank">우원의 기술 블로그</a>
 <h4>😄 우원의 포트폴리오</h4>
-<a href="https://my-tech-blog-beta.vercel.app/" target="_blank">우원의 포트폴리오</a>
+<a href="https://my.surfit.io/w/80781724" target="_blank">우원의 포트폴리오</a>
 <h4>😄 우원의 노션 포트폴리오</h4>
 <a href="https://woowon.oopy.io/" target="_blank">우원의 노션 포트폴리오</a>
 <h3>Front-End Stack</h3>
