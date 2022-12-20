@@ -1,3 +1,4 @@
+<p>🧐 2022.12.20 레포지토리 정리 실시했습니다. 깃허브 커밋이 기존과 상이해졌습니다.</p>
 <img alt="" src="https://user-images.githubusercontent.com/60413257/204310989-4871ab0f-b2e9-48ee-a18a-982b3a722820.gif" style="width:300px;"></img>
 <p>안녕하세요 👋<br/>
 새로운 영감을 주는 일과 꾸준한 성장을 즐기는<br/>
@@ -27,7 +28,6 @@
 <h3>Back-End Stack</h3>
 <p>
 <img alt="nestjs" src ="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img alt="django" src ="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
