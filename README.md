@@ -14,6 +14,7 @@
 <h3>Front-End Stack</h3>
 <p>
   <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="react" src ="https://img.shields.io/badge/reactnative-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 <h3>Back-End Stack</h3>
