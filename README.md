@@ -1,14 +1,16 @@
-<h4>🧐 운영중인 기술 블로그</h4>
-<a href="https://thewoowon.com/" target="_blank">우원의 기술 블로그</a>
-<h4>😄 우원의 포트폴리오</h4>
-<a href="https://my.surfit.io/w/80781724" target="_blank">우원의 포트폴리오</a>
-<h3>Front-End Stack</h3>
+> "코드는 항상 어떻게 보이는가가 아니라, 어떻게 동작하는가가 중요하다." - Neal Ford
+
+<h4>✔️ Tech Blog</h4>
+<a href="https://thewoowon.com/" target="_blank">techblog</a>
+<h4>✔️ Portfolio</h4>
+<a href="https://my.surfit.io/w/80781724" target="_blank">portfolio</a>
+<h3>FE STACK</h3>
 <p>
   <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="react" src ="https://img.shields.io/badge/reactnative-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
-<h3>Back-End Stack</h3>
+<h3>BE STACK</h3>
 <p>
 <img alt="nestjs" src ="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
