@@ -1,12 +1,3 @@
-<img alt="" src="https://user-images.githubusercontent.com/60413257/204310989-4871ab0f-b2e9-48ee-a18a-982b3a722820.gif" style="width:300px;"></img>
-<h4>
-😍 I Love It!
-</h4>
-<p>
-🙌 새로운 영감을 주는 일
-<br/>
-🙌 꾸준한 성장
-</p>
 <h4>🧐 운영중인 기술 블로그</h4>
 <a href="https://thewoowon.com/" target="_blank">우원의 기술 블로그</a>
 <h4>😄 우원의 포트폴리오</h4>
