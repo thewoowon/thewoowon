@@ -4,7 +4,7 @@
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
 <h4>✔️ Portfolio</h4>
 <a href="https://my.surfit.io/w/80781724" target="_blank">portfolio</a>
-<h4>✔️ Gallery</h4>
+<h4>✔️ Gallery in collaboration with Midjourney</h4>
 <a href="https://thewoowon.gallery" target="_blank">gallery</a>
 <h3>FE STACK</h3>
 <p>
