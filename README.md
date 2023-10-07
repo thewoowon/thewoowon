@@ -1,4 +1,5 @@
-> "코드는 항상 어떻게 보이는가가 아니라, 어떻게 동작하는가가 중요하다." - Neal Ford
+안녕하세요.
+Team Toroka의 리더 우원입니다.
 
 <h4>✔️ Tech Blog</h4>
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
