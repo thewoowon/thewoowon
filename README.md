@@ -1,5 +1,5 @@
 안녕하세요.
-Team Toroka의 리더 우원입니다.
+Team TOROKA의 리더 우원입니다.
 
 <h4>✔️ Tech Blog</h4>
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
