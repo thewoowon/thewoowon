@@ -1,5 +1,3 @@
-![image](https://github.com/thewoowon/thewoowon/assets/60413257/2583bf79-203c-4156-aacc-e155d75d04e6)
-
 안녕하세요.<br/>
 Team TOROKA입니다.
 
