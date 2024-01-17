@@ -1,5 +1,5 @@
-안녕하세요.<br/>
-팀토로카입니다 👏
+안녕하세요 👏
+우원입니다.
 
 <h4>✔️ Tech Blog</h4>
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
