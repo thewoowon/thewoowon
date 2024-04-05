@@ -1,6 +1,9 @@
 안녕하세요 👏
 우원입니다.
 
+평일에는 프론트엔드를 추앙하고,
+주말에는 데이터와 씨름하고 있습니다.
+
 <h4>✔️ Tech Blog</h4>
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
 <h4>✔️ Portfolio</h4>
