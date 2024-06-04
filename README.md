@@ -24,4 +24,23 @@
 <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+### 운영중인 웹 😁
+
+- [우원 테크블로그](https://thewoowon.com)
+- [우원 갤러리](https://thewoowon.gallery)
+- [우원 타이포그라피](https://thewoowon.studio)
+- [티키타카](https://tikitaka.chat)
+- [못해솔로](https://mosol.life)
+- [너드플래닛](https://nerdplanet.app)
+- [LENS](https://lensql.chat)
+- [덴티움 기술블로그](https://dentium.tech)
+- [스톤즈랩 블로그](https://stoneslab.blog)
+- [FontBeach](https://fontbeach.com)
+- [더리뷰](https://thereview.club)
+- [체키](https://checky.im)
+- [플랜지](https://planzy.im)
+- [크리틱](https://kritic.news)
+
 [![Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewoowon)](https://github.com/anuraghazra/github-readme-stats)
+
+
