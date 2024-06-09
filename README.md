@@ -5,7 +5,7 @@
 ✅ 최근에 작업한 [너드플래닛](https://nerdplanet.app)이 오픈했습니다! 많이 방문해 주시고 구독해주세요.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 200회를 돌파했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 면접 시뮬레이션 기능을 오픈했습니다.  
-✅ 못해솔로 국제화가 곧 배포됩니다.  
+✅ [못해솔로](https://mosol.life)가 국제화를 완료하고 레딧에 소개되었습니다.
 
 <h4>✔️ Tech Blog</h4>
 <a href="https://thewoowon.com/" target="_blank">techblog</a>
