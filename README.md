@@ -25,13 +25,13 @@
 - [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피에 관심이 많아 간간히 작업물을 올리고 있습니다.
 
 ### 🥸 블로그
-- [덴티움 기술블로그](https://dentium.tech)
-- [스톤즈랩 블로그](https://stoneslab.blog)
+- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마를 운영하고 있습니다. Nextjs를 활용해서 직접 개발했습니다!
+- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩이라는 개발 크루에 속해 있습니다. 스톤즈랩을 소개하는 블로그입니다.
 
 ### 😇 그외...
-- [플랜지](https://planzy.im)
-- [크리틱](https://kritic.news)
-- [필름덤즈](https://filmdoms.studio)
+- [플랜지](https://planzy.im) - 식물, 공간, 사람 세개(계)를 잇다, 플랜지
+- [크리틱](https://kritic.news) - 강력한 생성형 AI 기반의 에디터로 당신의 창의력과 생산성을 극대화하세요, 크리틱
+- [필름덤즈](https://filmdoms.studio) - 영화인을 위한 공간 - 필름덤즈
 
 <h3>FE STACK</h3>
 <p>
