@@ -2,6 +2,7 @@
 우원입니다.
 
 ### 🤭 최근 소식
+✅ [못해솔로](https://mosol.life)는 이상형 채팅 기능을 준비하고 있어요. 곧 만나뵈요~
 ✅ 최근에 작업한 [너드플래닛](https://nerdplanet.app)이 오픈했습니다! 많이 방문해 주시고 구독해주세요.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 200회를 돌파했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 면접 시뮬레이션 기능을 오픈했습니다.  
@@ -17,7 +18,7 @@
 - [LENS](https://lensql.chat) - 데이터베이스 쿼리 작성이제는 쉽고 빠르게, LENS
 - [체키](https://checky.im) - 단 5초, GPT로 컨텐츠를 한눈에! 체키
 - [FontBeach](https://fontbeach.com) - 폰트의 해변으로, 폰트비치
-- [더리뷰](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽
+- [더리뷰클럽](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽
 
 ### 😆 우원 시리즈
 - [우원 기술블로그](https://thewoowon.com) - 저의 기술블로그입니다. Nextjs를 활용해 직접 개발했습니다!
