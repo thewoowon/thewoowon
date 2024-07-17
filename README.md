@@ -2,6 +2,12 @@
 우원입니다.
 
 ### 🤭 최근 소식
+✅ [너드플래닛](https://nerdplanet.app)이 숏폼 '러쉬'를 오픈했습니다.
+✅ [티키타카](https://tikitaka.chat)가 취업 아티클 기능을 오픈했습니다.
+✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 250회를 돌파했습니다.  
+✅ [LENS](https://lensql.chat)가 채팅 기능을 시작했어요.
+
+### 🤭 오래된 소식
 ✅ [못해솔로](https://mosol.life)는 이상형 채팅 기능을 준비하고 있어요. 곧 만나뵈요~  
 ✅ 최근에 작업한 [너드플래닛](https://nerdplanet.app)이 오픈했습니다! 많이 방문해 주시고 구독해주세요.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 200회를 돌파했습니다.  
