@@ -2,7 +2,7 @@
 우원입니다.
 
 ### 🤭 최근 소식
-✅ [스카이브릿지](https://skybrg.io)를 준비 중입니다.  
+✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 최종 배포되었습니다.
 ✅ [너드플래닛](https://nerdplanet.app)이 숏폼 '러쉬'를 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 취업 아티클 기능을 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 250회를 돌파했습니다.  
