@@ -2,21 +2,18 @@
 우원입니다.
 
 ### 🤭 최근 소식
+✅ 차기 프로젝트 '여론'을 진행하고 있습니다.  
+✅ 일타를 꿈꾸는 브릿저를 모집하고 있습니다.  
+✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 [네이버클라우드](https://clova.ai/hyperclova#case)에 소개되었어요.
+
+### 🤭 오래된 소식
 ✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 최종 배포되었습니다.  
 ✅ [너드플래닛](https://nerdplanet.app)이 숏폼 '러쉬'를 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 취업 아티클 기능을 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 250회를 돌파했습니다.  
 ✅ [LENS](https://lensql.chat)가 채팅 기능을 시작했어요.
 
-### 🤭 오래된 소식
-✅ [못해솔로](https://mosol.life)는 이상형 채팅 기능을 준비하고 있어요. 곧 만나뵈요~  
-✅ 최근에 작업한 [너드플래닛](https://nerdplanet.app)이 오픈했습니다! 많이 방문해 주시고 구독해주세요.  
-✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 200회를 돌파했습니다.  
-✅ [티키타카](https://tikitaka.chat)가 면접 시뮬레이션 기능을 오픈했습니다.  
-✅ [못해솔로](https://mosol.life)가 국제화를 완료하고 레딧에 소개되었습니다.
-
 ### 🥳 끌린다면...
-
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
 
 - [스카이브릿지](https://skybrg.io) - 꿈을 이루는 힘, 스카이브릿지
