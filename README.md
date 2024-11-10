@@ -5,9 +5,9 @@
 ✅ 길 위에서 만나는 연결, 가는김에 기다려주세요.
 
 ### 🤭 오래된 소식
-✅ 일타를 꿈꾸는 브릿저를 모집하고 있습니다.  
-✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 [네이버클라우드](https://clova.ai/hyperclova#case)에 소개되었어요.
-✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 최종 배포되었습니다.  
+✅ 일타를 꿈꾸는 브릿저를 모집하고 있습니다.   
+✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 [네이버클라우드](https://clova.ai/hyperclova#case)에 소개되었어요.  
+✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 최종 배포되었습니다.   
 ✅ [너드플래닛](https://nerdplanet.app)이 숏폼 '러쉬'를 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 취업 아티클 기능을 오픈했습니다.  
 ✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 250회를 돌파했습니다.  
