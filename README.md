@@ -2,18 +2,14 @@
 우원입니다.
 
 ### 🤭 최근 소식
-✅ 중소기업 및 개인의 데이터 기반 의사결정을 지원 플랫폼 `호모데이터리즘`  
-✅ 티키타카에 `꼬리질문`과 `합격가능성` 기능이 추가될 예정입니다~😄  
-✅ 길 위에서 만나는 연결, 가는김에 기다려주세요.
+✅ waiting for @thewoowon/react-native-oauth~
+✅ @thewoowon/react-native-daum-postcode published
 
 ### 🤭 오래된 소식
+✅ 티키타카에 `꼬리질문`과 `합격가능성` 기능이 추가될 예정입니다~😄  
+✅ 길 위에서 만나는 연결, 가는김에 기다려주세요.
 ✅ 일타를 꿈꾸는 브릿저를 모집하고 있습니다.   
 ✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 [네이버클라우드](https://clova.ai/hyperclova#case)에 소개되었어요.  
-✅ 꿈을 이루는 힘, [스카이브릿지](https://skybrg.io)가 최종 배포되었습니다.   
-✅ [너드플래닛](https://nerdplanet.app)이 숏폼 '러쉬'를 오픈했습니다.  
-✅ [티키타카](https://tikitaka.chat)가 취업 아티클 기능을 오픈했습니다.  
-✅ [티키타카](https://tikitaka.chat)가 월간 구글 organic search 250회를 돌파했습니다.  
-✅ [LENS](https://lensql.chat)가 채팅 기능을 시작했어요.
 
 ### 🥳 끌린다면...
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
