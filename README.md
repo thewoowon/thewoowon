@@ -2,7 +2,7 @@
 우원입니다.
 
 ### 🤭 최근 소식
-✅ waiting for @thewoowon/react-native-oauth~
+✅ waiting for @thewoowon/react-native-oauth~  
 ✅ @thewoowon/react-native-daum-postcode published
 
 ### 🤭 오래된 소식
