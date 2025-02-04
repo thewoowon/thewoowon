@@ -43,7 +43,7 @@
 <p>
   <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="react-native" src ="https://img.shields.io/badge/reactnative-0014AD.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
+  <img alt="react-native" src ="https://img.shields.io/badge/reactnative-0014AD.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 <h3>BE STACK</h3>
 <p>
