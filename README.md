@@ -31,8 +31,8 @@
 - [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피 작품
 
 ### 🥸 블로그
-- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마로 활동한 이력이 있습니다.(❌ deprecated soon)
-- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩이라는 개발 크루에 속해 있습니다. 스톤즈랩을 소개하는 블로그입니다.
+- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(❌ deprecated soon)
+- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기
 
 ### 😇 그외...
 - [플랜지](https://planzy.im) - 식물, 공간, 사람 세개(계)를 잇다, 플랜지(❌ deprecated)
