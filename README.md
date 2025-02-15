@@ -4,7 +4,7 @@
 ### 🤭 최근 소식
 ✅ Homo Datarism => 직접 수집한 Raw 데이터를 전처리하고 그래픽 인터페이스로 제공합니다.  
 ✅ Eternal Grid X => [이터널그리드X](https://eternalgridx.com)  
-✅ 가는김에가 2월 1주 차에 앱스토어, 구글 플레이에 배포될 예정입니다!(2월 7일 예정)
+✅ 가는김에가 2월 5주 차에 앱스토어, 구글 플레이에 배포될 예정입니다!(2월 28일 예정)
 
 ### 🤭 오래된 소식
 ✅ waiting for @thewoowon/react-native-oauth~  
