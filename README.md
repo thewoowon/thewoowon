@@ -1,17 +1,18 @@
 안녕하세요 👏
 우원입니다.
 
-### 🤭 최근 소식
+### 😎 Latest News..
+✅ 가는김에(2월 28일 예정)
+
+### 😘 Old News..
 ✅ Homo Datarism => 직접 수집한 Raw 데이터를 전처리하고 그래픽 인터페이스로 제공합니다.  
 ✅ Eternal Grid X => [이터널그리드X](https://eternalgridx.com)  
-✅ 가는김에가 2월 5주 차에 앱스토어, 구글 플레이에 배포될 예정입니다!(2월 28일 예정)
-
-### 🤭 오래된 소식
+✅ 가는김에가 2월 5주 차에 앱스토어, 구글 플레이에 배포될 예정입니다!(2월 28일 예정)  
 ✅ waiting for @thewoowon/react-native-oauth~  
 ✅ @thewoowon/react-native-daum-postcode published  
 ✅ 소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에 기다려주세요.  
 
-### 🥳 끌린다면...
+### 🥳 If you're interested...
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
 
 - [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X
@@ -25,16 +26,16 @@
 - [FontBeach](https://fontbeach.com) - 폰트의 해변으로, 폰트비치(❌ deprecated)
 - [더리뷰클럽](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽(❌ deprecated soon)
 
-### 😆 우원 시리즈
+### 😆 Series..
 - [우원 기술블로그](https://thewoowon.com) - 나의 기술블로그
 - [우원 갤러리](https://thewoowon.gallery) - 미드저니 갤러리
 - [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피 작품
 
-### 🥸 블로그
+### 🥸 blog
 - [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(❌ deprecated soon)
 - [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기
 
-### 😇 그외...
+### 😇 Other..
 - [플랜지](https://planzy.im) - 식물, 공간, 사람 세개(계)를 잇다, 플랜지(❌ deprecated)
 - [크리틱](https://kritic.news) - 강력한 생성형 AI 기반의 에디터로 당신의 창의력과 생산성을 극대화하세요, 크리틱(❌ deprecated soon)
 - [필름덤즈](https://filmdoms.studio) - 영화인을 위한 공간, 필름덤즈(❌ deprecated)
