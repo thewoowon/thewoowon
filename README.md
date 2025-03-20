@@ -36,7 +36,7 @@
 - [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피 작품
 
 ### 🥸 blog
-- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(❌ deprecated soon)
+- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(❌ deprecated)
 - [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기
 
 ### 😇 Other..
