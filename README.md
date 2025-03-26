@@ -2,7 +2,9 @@
 우원입니다.
 
 ### 😎 Latest News..
-![Pasted Graphic 11 복사본](https://github.com/user-attachments/assets/763dfc41-45ba-4d64-b225-261c9f1e3b84)  
+
+<img src="https://github.com/user-attachments/assets/bca704a3-e882-49a8-a69f-790f865d6241" width="480"/>
+
 ✅ HOMO DATARISM 착수  
 ✅ 큽피 최종 공급일 3월 28일  
 ✅ 큽피 사용자 테스트 완료
