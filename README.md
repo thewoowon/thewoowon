@@ -2,19 +2,17 @@
 우원입니다.
 
 ### 😎 Latest News..
+![Pasted Graphic 11 복사본](https://github.com/user-attachments/assets/763dfc41-45ba-4d64-b225-261c9f1e3b84)  
+✅ HOMO DATARISM 착수  
+✅ 큽피 최종 공급일 3월 28일  
+✅ 큽피 사용자 테스트 완료
+
+### 😘 Old News..
 ✅ 큽피(KBffee) - 3월 22일 필드 테스트  
 ✅ 가는김에 구글 플레이 배포 준비  
 ✅ 큽피(KBffee) - EDA 분석 결과 공유 [바로가기](https://github.com/thewoowon/KBffee-interview-analysis)  
 ✅ 큽피(KBffee) - 사전 인터뷰 진행, 당위성 확보 및 시장 수요 조사 완료  
 ✅ 가는김에 앱스토어 배포 완료! [앱스토어 바로가기](https://apps.apple.com/kr/app/%EA%B0%80%EB%8A%94%EA%B9%80%EC%97%90/id6742342931)   
-
-### 😘 Old News..
-✅ Homo Datarism => 직접 수집한 Raw 데이터를 전처리하고 그래픽 인터페이스로 제공합니다.  
-✅ Eternal Grid X => [이터널그리드X](https://eternalgridx.com)  
-✅ 가는김에가 2월 5주 차에 앱스토어, 구글 플레이에 배포될 예정입니다!(2월 28일 예정)  
-✅ waiting for @thewoowon/react-native-oauth~  
-✅ @thewoowon/react-native-daum-postcode published  
-✅ 소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에 기다려주세요.  
 
 ### 🥳 If you're interested...
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
