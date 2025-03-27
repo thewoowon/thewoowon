@@ -3,7 +3,9 @@
 
 ### 😎 Latest News..
 
+<a href="https://homo-datarism.vercel.app/" target="_blank">
 <img src="https://github.com/user-attachments/assets/bca704a3-e882-49a8-a69f-790f865d6241" width="480"/>
+</a>
 
 ✅ HOMO DATARISM 착수  
 ✅ 큽피 최종 공급일 3월 28일  
