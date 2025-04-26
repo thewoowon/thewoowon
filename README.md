@@ -3,24 +3,25 @@
 
 ### 😎 Latest News..
 
-<a href="https://homo-datarism.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/bca704a3-e882-49a8-a69f-790f865d6241" width="480"/>
+<a href="https://www.puuk.in/story/purification" target="_blank">
+<img src="https://www.puuk.in/og-images/purification.png" width="480"/>
 </a>
 
+✅ [푹유튜브](https://www.youtube.com/channel/UCCojqjyqe_0sNP-oHt6f7Zg) 방문해주세요~ 좋댓구알!!  
+✅ 빠질 수 밖에 없는 일상 속 괴담, 푹 테스트  
 ✅ HOMO DATARISM 착수  
-✅ 큽피 최종 공급일 3월 28일  
-✅ 큽피 사용자 테스트 완료
+✅ 큽피 2차 리뉴얼  
+✅ 큽피 가입자수 400명 돌파!
 
 ### 😘 Old News..
-✅ 큽피(KBffee) - 3월 22일 필드 테스트  
-✅ 가는김에 구글 플레이 배포 준비  
-✅ 큽피(KBffee) - EDA 분석 결과 공유 [바로가기](https://github.com/thewoowon/KBffee-interview-analysis)  
-✅ 큽피(KBffee) - 사전 인터뷰 진행, 당위성 확보 및 시장 수요 조사 완료  
-✅ 가는김에 앱스토어 배포 완료! [앱스토어 바로가기](https://apps.apple.com/kr/app/%EA%B0%80%EB%8A%94%EA%B9%80%EC%97%90/id6742342931)   
+✅ HOMO DATARISM 착수  
+✅ 큽피 최종 공급일 3월 28일  
+✅ 큽피 사용자 테스트 완료  
 
 ### 🥳 If you're interested...
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
 
+- [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹
 - [큽피(KBffee)](https://github.com/thewoowon/KBffee) - 찐~한 커피 한 잔 어때요?, 사내 스탬프 적립앱 큽피
 - [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X
 - [가는김에](https://lululala.at) - 소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에
