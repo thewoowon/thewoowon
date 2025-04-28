@@ -9,7 +9,6 @@
 
 ✅ [푹유튜브](https://www.youtube.com/channel/UCCojqjyqe_0sNP-oHt6f7Zg) 방문해주세요~ 좋댓구알!!  
 ✅ 빠질 수 밖에 없는 일상 속 괴담, 푹 테스트  
-✅ HOMO DATARISM 착수  
 ✅ 큽피 2차 리뉴얼  
 ✅ 큽피 가입자수 400명 돌파!
 
