@@ -4,22 +4,23 @@
 ### 😎 Latest News..
 
 <a href="https://www.puuk.in/story/purification" target="_blank">
-<img src="https://www.puuk.in/og-images/purification.png" width="480"/>
+<img src="https://www.puuk.in/og-images/noise.png" width="480"/>
 </a>
 
+✅ 지금 아니면, 놓쳐요 – 마감벨이 울리면 바로 예약!  
+✅ [푹유튜브](https://www.youtube.com/channel/UCCojqjyqe_0sNP-oHt6f7Zg) 독백 나왔어요~  
+✅ 큽피 가입자수 500명 돌파!
+
+### 😘 Old News..
 ✅ [푹유튜브](https://www.youtube.com/channel/UCCojqjyqe_0sNP-oHt6f7Zg) 방문해주세요~ 좋댓구알!!  
 ✅ 빠질 수 밖에 없는 일상 속 괴담, 푹 테스트  
 ✅ 큽피 2차 리뉴얼  
 ✅ 큽피 가입자수 400명 돌파!
 
-### 😘 Old News..
-✅ HOMO DATARISM 착수  
-✅ 큽피 최종 공급일 3월 28일  
-✅ 큽피 사용자 테스트 완료  
-
 ### 🥳 If you're interested...
 현재 운영 중인 서비스입니다. 한 번 사용해보세요!
 
+- 마감벨 - 지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!
 - [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹
 - [큽피(KBffee)](https://github.com/thewoowon/KBffee) - 찐~한 커피 한 잔 어때요?, 사내 스탬프 적립앱 큽피
 - [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X
