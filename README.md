@@ -14,17 +14,19 @@
 
 현재 운영 중인 앱입니다. 한 번 사용해보세요!
 
+- [티키타카 네이티브](https://tikitaka.chat) - (iOS/Android)AI 면접 코칭 서비스, 티키타카 네이티브!(😘 coming soon)
 - [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(🚀 in operation)
 - [큽피(KBffee)](https://github.com/thewoowon/KBffee) - (iOS)찐~한 커피 한 잔 어때요?, 사내 스탬프 적립앱 큽피(🚀 in operation)
 - [가는김에](https://lululala.at) - (iOS)소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에(❌ temporary suspension of operations)
 
 현재 운영 중인 웹 서비스입니다. 한 번 사용해보세요!
 
+- [스테이지](https://thisismystage.com) - 나를 보여줄 시간, 스테이지(🚀 in operation)
 - [세이프가드AI](https://sfgdai.com) - 세이프가드AI, 당신의 금융 면연력(🚀 in operation)
 - [드림팜](https://dreamfarm.im) - US:CODE, 의성 and Google Developer 해커톤(🚀 in operation)
-- [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹(🚀 in operation)
+- [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹(❌ deprecated soon)
 - [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X(🚀 in operation)
-- [스카이브릿지](https://skybrg.io) - 꿈을 이루는 힘, 스카이브릿지(🚀 in operation)
+- [스카이브릿지](https://skybrg.io) - 꿈을 이루는 힘, 스카이브릿지(❌ deprecated soon)
 - [티키타카](https://tikitaka.chat) - AI 면접 코칭 서비스, 티키타카!(🚀 in operation)
 - [못해솔로](https://mosol.life) - 칼로가 그려주는 나만의 이상형 서비스, 못해솔로(❌ deprecated)
 - [너드플래닛](https://nerdplanet.app) - 원하는 기술블로그만 쏙쏙! 구독형 기술블로그 뉴스레터, 너드플래닛(❌ deprecated)
@@ -42,7 +44,7 @@
 
 ### 🥸 blog
 - [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(❌ deprecated)
-- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기(🚀 in operation)
+- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기(❌ deprecated soon)
 
 ### 😇 Others..
 - [플랜지](https://planzy.im) - 식물, 공간, 사람 세개(계)를 잇다, 플랜지(❌ deprecated)
