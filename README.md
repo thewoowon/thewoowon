@@ -2,13 +2,11 @@
 우원입니다.
 
 ### 😎 Latest News..
-✅ 뉴스 빅데이터 해커톤 대상 수상  
-✅ Us:Code 해커톤 대상 수상  
 
 ### 😘 Old News..
+✅ 뉴스 빅데이터 해커톤 대상 수상  
+✅ Us:Code 해커톤 대상 수상  
 ✅ 마감벨 8월 28일 공식 오픈  
-✅ 티키타카 수익화 사업 진행  
-✅ 티키타카 앱 개발 진행
 
 ### 🥳 If you're interested...
 
@@ -27,13 +25,13 @@
 - [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹(❌ deprecated soon)
 - [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X(🚀 in operation)
 - [스카이브릿지](https://skybrg.io) - 꿈을 이루는 힘, 스카이브릿지(❌ deprecated soon)
-- [티키타카](https://tikitaka.chat) - AI 면접 코칭 서비스, 티키타카!(🚀 in operation)
+- [티키타카](https://tikitaka.chat) - AI 면접 코칭 서비스, 티키타카!(❌ deprecated soon)
 - [못해솔로](https://mosol.life) - 칼로가 그려주는 나만의 이상형 서비스, 못해솔로(❌ deprecated)
 - [너드플래닛](https://nerdplanet.app) - 원하는 기술블로그만 쏙쏙! 구독형 기술블로그 뉴스레터, 너드플래닛(❌ deprecated)
 - [LENS](https://lensql.chat) - 데이터베이스 쿼리 작성이제는 쉽고 빠르게, LENS(❌ deprecated)
 - [체키](https://checky.im) - 단 5초, GPT로 컨텐츠를 한눈에! 체키(❌ deprecated)
 - [FontBeach](https://fontbeach.com) - 폰트의 해변으로, 폰트비치(❌ deprecated)
-- [더리뷰클럽](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽(❌ deprecated soon)
+- [더리뷰클럽](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽(❌ deprecated)
 
 
 
