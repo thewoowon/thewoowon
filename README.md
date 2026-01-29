@@ -46,7 +46,6 @@ Hi! I'm Won Woo
 
 
 ### Series..
-- [우원 기술블로그](https://thewoowon.com) - 나의 기술블로그(in operation)
 - [우원 갤러리](https://thewoowon.gallery) - 미드저니 갤러리(in operation)
 - [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피 작품(in operation)
 
