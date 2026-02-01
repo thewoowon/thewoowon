@@ -2,7 +2,7 @@ Hi! I'm Won Woo
 
 ### Latest News..
 
-α. Tiki-Taka: Official Opening on February 1st  
+α. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st  
 β. Fast Builderthon Grand Prize Winner  
 
 ### Old News..
