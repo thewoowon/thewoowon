@@ -1,6 +1,12 @@
 Hi! I'm Won Woo
 
 ### Latest News..
+
+α. Tiki-Taka: Official Opening on February 1st  
+β. Fast Builderthon Grand Prize Winner  
+
+### Old News..
+
 α. X series opened ⇒ npm packages
 - motionx
 - vecx
@@ -12,23 +18,23 @@ Hi! I'm Won Woo
 γ. React Native Performance & Memory Overlay
 - react-native-perf-hud
 
-### Old News..
-α. News Big Data Hackathon Grand Prize Winner  
-β. Us:Code Hackathon Grand Prize Winner  
-γ. Magambell: Official Opening on August 28th  
+δ. News Big Data Hackathon Grand Prize Winner  
+ε. Us:Code Hackathon Grand Prize Winner  
+ζ. Magambell: Official Opening on August 28th
 
 ### If you're interested...
 
 #### App
 
 - [영화앤미](https://github.com/thewoowon/MnM) - (iOS/Android) 영화 추천 감성 다이어리(in operation)
-- [티키타카 네이티브](https://tikitaka.chat) - (iOS/Android)AI 면접 코칭 서비스, 티키타카 네이티브!(coming soon)
-- [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)
+- [티키타카 네이티브](https://tikitaka.chat) - (iOS/Android)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
+- [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)(현 바이트픽)
 - [큽피(KBffee)](https://github.com/thewoowon/KBffee) - (iOS)찐~한 커피 한 잔 어때요?, 사내 스탬프 적립앱 큽피(in operation)
 - [가는김에](https://lululala.at) - (iOS)소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에(temporary suspension of operations)
 
 #### Web
 
+- [트러스트](https://trust-ochre.vercel.app) - 바이브 코더의, 바이브 코더에 의한, 바이브 코더를 위한 단 5분, 원클릭 보안 스캐너 트러스트
 - [스테이지](https://thisismystage.com) - 나를 보여줄 시간, 스테이지(in operation)
 - [세이프가드AI](https://sfgdai.com) - 세이프가드AI, 당신의 금융 면연력(in operation)
 - [드림팜](https://dreamfarm.im) - US:CODE, 의성 and Google Developer 해커톤(in operation)
