@@ -2,7 +2,7 @@ Hi! I'm Won Woo
 
 ### Latest News..
 
-α. 미스테이커(Mistakr) - 스타트업 실패 분석 App => Coming Soon
+α. 미스테이커(Mistakr) - 스타트업 실패 분석 App => Coming Soon  
 β. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st => App  
 γ. Fast Builderthon Grand Prize Winner  
 δ. 원클릭 보안 스캐너 트러스트: Official Opening on February 1st => Web  
