@@ -2,9 +2,10 @@ Hi! I'm Won Woo
 
 ### Latest News..
 
-α. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st => App  
-β. Fast Builderthon Grand Prize Winner  
-γ. 원클릭 보안 스캐너 트러스트: Official Opening on February 1st => Web  
+α. 미스테이커(Mistakr) - 스타트업 실패 분석 App => Coming Soon
+β. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st => App  
+γ. Fast Builderthon Grand Prize Winner  
+δ. 원클릭 보안 스캐너 트러스트: Official Opening on February 1st => Web  
 
 ### Old News..
 
@@ -27,8 +28,9 @@ Hi! I'm Won Woo
 
 #### App
 
-- [영화앤미](https://github.com/thewoowon/MnM) - (iOS/Android) 영화 추천 감성 다이어리(in operation)
-- [티키타카 네이티브](https://tikitaka.chat) - (iOS/Android)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
+- [미스테이커](https://github.com/thewoowon/Mistakr) - (iOS) 스타트업 실패 분석(coming soon)
+- [영화앤미](https://github.com/thewoowon/MnM) - (iOS) 영화 추천 감성 다이어리(in operation)
+- [티키타카 네이티브](https://tikitaka.chat) - (iOS)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
 - [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)(현 바이트픽)
 - [큽피(KBffee)](https://github.com/thewoowon/KBffee) - (iOS)찐~한 커피 한 잔 어때요?, 사내 스탬프 적립앱 큽피(in operation)
 - [가는김에](https://lululala.at) - (iOS)소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에(temporary suspension of operations)
