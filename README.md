@@ -2,7 +2,7 @@ Hi! I'm Won Woo
 
 ### Latest News..
 
-α. 미스테이커(Mistakr) - 실패도 자산이에요! 스타트업 실패 사례 분석 + AI 컨설팅 플랫폼 => App
+α. 미스테이커(Mistakr) - 실패도 자산이에요! 스타트업 실패 사례 분석 + AI 컨설팅 플랫폼 => App  
 β. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st => App  
 γ. Fast Builderthon Grand Prize Winner  
 δ. 원클릭 보안 스캐너 트러스트: Official Opening on February 1st => Web  
@@ -28,7 +28,7 @@ Hi! I'm Won Woo
 
 #### App
 
-- [미스테이커](https://github.com/thewoowon/mistakr) - (iOS) 남의 실패에서 배우면, 내 성공 확률이 올라가요(in operation)
+- [미스테이커](https://github.com/thewoowon/mistakr) - (iOS) 남의 실패에서 배우면, 내 성공 확률이 올라가요(in operation)  
 - [영화앤미](https://github.com/thewoowon/MnM) - (iOS) 영화 추천 감성 다이어리(in operation)
 - [티키타카 네이티브](https://tikitaka.chat) - (iOS)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
 - [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)(현 바이트픽)
