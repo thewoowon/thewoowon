@@ -2,27 +2,12 @@ Hi! I'm Won Woo
 
 ### Latest News..
 
-α. 미스테이커(Mistakr) - 실패도 자산이에요! 스타트업 실패 사례 분석 + AI 컨설팅 플랫폼 => App  
-β. AI 면접 코칭 서비스, 티키타카 네이티브: Official Opening on February 1st => App  
-γ. Fast Builderthon Grand Prize Winner  
-δ. 원클릭 보안 스캐너 트러스트: Official Opening on February 1st => Web  
+α. 로테이션 소개팅에 참여하는 가장 쉬운 방법, 롤링 (베타 웹 런칭)
+-> [롤링 입장하기](https://rolling-web.vercel.app)
 
 ### Old News..
 
-α. X series opened ⇒ npm packages
-- motionx
-- vecx
-- envx
-
-β. Lightweight, secure, and 100% free Google OAuth2 library for React Native
-- google-rn
-
-γ. React Native Performance & Memory Overlay
-- react-native-perf-hud
-
-δ. News Big Data Hackathon Grand Prize Winner  
-ε. Us:Code Hackathon Grand Prize Winner  
-ζ. Magambell: Official Opening on August 28th
+α. 큽피가 '포인토'로 리뉴얼되었어요! 앱스토어에서 바로 만나 보실 수 있어요!
 
 ### If you're interested...
 
@@ -37,6 +22,7 @@ Hi! I'm Won Woo
 
 #### Web
 
+- [롤링](https://rolling-web.vercel.app) - 로테이션 소개팅의 정석, 검증된 사람들과, 정해진 시간에, 자연스럽게 만나는 소개팅, 롤링
 - [트러스트](https://trust-ochre.vercel.app) - 바이브 코더의, 바이브 코더에 의한, 바이브 코더를 위한 단 5분, 원클릭 보안 스캐너 트러스트
 - [스테이지](https://thisismystage.com) - 나를 보여줄 시간, 스테이지(in operation)
 - [세이프가드AI](https://sfgdai.com) - 세이프가드AI, 당신의 금융 면연력(in operation)
