@@ -11,8 +11,6 @@ Hi! I'm Won Woo
 
 ### If you're interested...
 
-<img width="768" height="484" alt="Frame 1000004341" src="https://github.com/user-attachments/assets/92169142-39ba-4165-a8fc-46a5b66ddb14" />
-
 #### App
 
 - [미스테이커](https://github.com/thewoowon/mistakr) - (iOS) 남의 실패에서 배우면, 내 성공 확률이 올라가요(in operation)  
@@ -21,8 +19,6 @@ Hi! I'm Won Woo
 - [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)(현 바이트픽)
 - [포인토](https://github.com/thewoowon/KBffee) - (iOS)찐~한 커피 한 잔 어때요?, 스탬프 적립앱 포인토(in operation)
 - [가는김에](https://lululala.at) - (iOS)소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에(temporary suspension of operations)
-
-<img width="768" height="496" alt="Frame 1000004340" src="https://github.com/user-attachments/assets/da07673d-47c6-4941-bec6-9f6abd7b314f" />
 
 #### Web
 
