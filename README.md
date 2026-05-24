@@ -8,6 +8,12 @@ Hi! I'm Won Woo
 β. 로테이션 소개팅에 참여하는 가장 쉬운 방법, 롤링 (베타 웹 런칭)
 -> [롤링 입장하기](https://rollingwithme.app)
 
+γ. 100:0연구소 iOS 앱 준비 중
+
+δ. 롤링 앱 iOS 앱 준비 중
+
+ε. 포인토 모바일 최적화 진행 중
+
 ### Old News..
 
 α. 큽피가 '포인토'로 리뉴얼되었어요! 앱스토어에서 바로 만나 보실 수 있어요!
@@ -16,6 +22,8 @@ Hi! I'm Won Woo
 
 #### App
 
+- [100:0연구소](https://github.com/thewoowon/100-0-LAB-app) - (iOS) (coming soon)  
+- [롤링](https://github.com/thewoowon/rolling-app) - (iOS) (coming soon)
 - [미스테이커](https://github.com/thewoowon/mistakr) - (iOS) 남의 실패에서 배우면, 내 성공 확률이 올라가요(in operation)  
 - [영화앤미](https://github.com/thewoowon/MnM) - (iOS) 영화 추천 감성 다이어리(in operation)
 - [티키타카 네이티브](https://tikitaka.chat) - (iOS)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
