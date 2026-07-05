@@ -1,65 +1,148 @@
-Hi! I'm Won Woo
+# Won Woo
 
-### Latest News..
+**Frontend / Product Engineer**  
+Boundary-first frontend architecture for business-critical products.
 
-α. 이거 100:0 맞나요? 억울하면, 영상으로 말하세요. 100:0연구소 (베타 웹 런칭)
--> [100:0연구소 입장하기](https://100to0lab.com)
+I design frontend systems where product impact depends on rendering stability, lifecycle control, operational efficiency, and measurable user behavior.
 
-β. 로테이션 소개팅에 참여하는 가장 쉬운 방법, 롤링 (베타 웹 런칭)
--> [롤링 입장하기](https://rollingwithme.app)
+My main focus is not just building screens.  
+I focus on defining the right boundaries before the product grows too large to control.
 
-γ. 100:0연구소 iOS 앱 준비 중
+---
 
-δ. 롤링 앱 iOS 앱 준비 중
+## Core Positioning
 
-ε. 포인토 모바일 최적화 진행 중
+I work across:
 
-### Old News..
+- **Hybrid WebView Systems**
+- **Business-Critical Frontend**
+- **React / Next.js / React Native**
+- **Ad, Reward, and Conversion Flows**
+- **AI/LLM Product Execution**
+- **Mobile Productization**
 
-α. 큽피가 '포인토'로 리뉴얼되었어요! 앱스토어에서 바로 만나 보실 수 있어요!
+I have built and operated frontend systems in financial, healthcare, commerce, reward, and AI product domains.
 
-### If you're interested...
+---
 
-#### App
+## Architecture Philosophy
 
-- [100:0연구소](https://github.com/thewoowon/100-0-LAB-mobile) - (iOS) (coming soon)  
-- [롤링](https://github.com/thewoowon/rolling-mobile) - (iOS) (coming soon)
-- [미스테이커](https://github.com/thewoowon/mistakr) - (iOS) 남의 실패에서 배우면, 내 성공 확률이 올라가요(in operation)  
-- [영화앤미](https://github.com/thewoowon/MnM) - (iOS) 영화 추천 감성 다이어리(in operation)
-- [티키타카 네이티브](https://tikitaka.chat) - (iOS)AI 면접 코칭 서비스, 티키타카 네이티브!(in operation)
-- [마감벨](https://magambell.com) - (iOS/Android)지금 아니면, 놓쳐요. 마감벨이 울리면 바로 예약!(in operation)(현 바이트픽)
-- [포인토](https://github.com/thewoowon/KBffee) - (iOS)찐~한 커피 한 잔 어때요?, 스탬프 적립앱 포인토(in operation)
-- [가는김에](https://lululala.at) - (iOS)소규모 가공업체와의 거래를 더 빠르게 더 현명하게, 가는김에(temporary suspension of operations)
+### Boundary-First Frontend
 
-#### Web
-- [100:0연구소](https://100to0lab.com) - 이거 100:0 맞나요? 억울하면, 영상으로 말하세요.
-- [롤링](https://rollingwithme.app) - 로테이션 소개팅의 정석, 검증된 사람들과, 정해진 시간에, 자연스럽게 만나는 소개팅, 롤링
-- [트러스트](https://trust-ochre.vercel.app) - 바이브 코더의, 바이브 코더에 의한, 바이브 코더를 위한 단 5분, 원클릭 보안 스캐너 트러스트
-- [스테이지](https://thisismystage.com) - 나를 보여줄 시간, 스테이지(in operation)
-- [세이프가드AI](https://sfgdai.com) - 세이프가드AI, 당신의 금융 면연력(in operation)
-- [드림팜](https://dreamfarm.im) - US:CODE, 의성 and Google Developer 해커톤(in operation)
-- [푹(Puuk)](https://puuk.in) - 빠질 수 밖에 없는 일상 속 괴담, 푹(deprecated)
-- [이터널그리드X](https://eternalgridx.com) - three.js로 이것 저것 해보는 곳, 이터널그리드X(in operation)
-- [스카이브릿지](https://skybrg.io) - 꿈을 이루는 힘, 스카이브릿지(deprecated)
-- [티키타카](https://tikitaka.chat) - AI 면접 코칭 서비스, 티키타카!(deprecated)
-- [못해솔로](https://mosol.life) - 칼로가 그려주는 나만의 이상형 서비스, 못해솔로(deprecated)
-- [너드플래닛](https://nerdplanet.app) - 원하는 기술블로그만 쏙쏙! 구독형 기술블로그 뉴스레터, 너드플래닛(deprecated)
-- [LENS](https://lensql.chat) - 데이터베이스 쿼리 작성이제는 쉽고 빠르게, LENS(deprecated)
-- [체키](https://checky.im) - 단 5초, GPT로 컨텐츠를 한눈에! 체키(deprecated)
-- [FontBeach](https://fontbeach.com) - 폰트의 해변으로, 폰트비치(deprecated)
-- [더리뷰클럽](https://thereview.club) - 독후감 쓰기 귀찮을 때, 더리뷰클럽(deprecated)
+I believe frontend architecture begins before component design.
 
+A screen is only the output.  
+The real system is made of boundaries.
 
+The boundaries I define first:
 
-### Series..
-- [우원 갤러리](https://thewoowon.gallery) - 미드저니 갤러리(in operation)
-- [우원 타이포그라피](https://thewoowon.studio) - 타이포그래피 작품(in operation)
+- **Routing / Navigation Boundary**  
+  What belongs to a page, a flow, a modal, a tab, or a full-screen transition.
 
-### blog
-- [덴티움 기술블로그](https://dentium.tech) - 덴티움 기술블로그 운영진 에니그마(deprecated)
-- [스톤즈랩 블로그](https://stoneslab.blog) - 스톤즈랩의 개발이야기(deprecated)
+- **Server State / Client State Boundary**  
+  What comes from the server, what belongs to user interaction, and what must survive rendering changes.
 
-### Others..
-- [플랜지](https://planzy.im) - 식물, 공간, 사람 세개(계)를 잇다, 플랜지(deprecated)
-- [크리틱](https://kritic.news) - 강력한 생성형 AI 기반의 에디터로 당신의 창의력과 생산성을 극대화하세요, 크리틱(deprecated)
-- [필름덤즈](https://filmdoms.studio) - 영화인을 위한 공간, 필름덤즈(deprecated)
+- **Domain / UI Boundary**  
+  What is product-specific logic and what should become reusable interface infrastructure.
+
+- **External SDK / Internal Runtime Boundary**  
+  External SDKs are not just libraries.  
+  They are runtimes with their own loading, initialization, rendering, failure, and recovery behavior.
+
+- **Loading / Error / Empty / Fallback Boundary**  
+  Failure states should be designed as part of the product flow, not patched after bugs appear.
+
+- **Operation / Deployment Boundary**  
+  Product operations should not always require app deployment.  
+  Frontend systems should expose safe control points for campaign, content, and business operation.
+
+Good frontend architecture is not about making folders look clean.  
+It is about making the next change obvious.
+
+---
+
+## Selected Engineering Work
+
+### Business-Critical Frontend Runtime
+
+At KB Kookmin Bank, I worked on frontend systems for ad, benefit, and reward surfaces inside a large-scale mobile banking environment.
+
+The challenge was not simply rendering banners.  
+The real problem was controlling a business-critical frontend runtime inside a hybrid WebView environment.
+
+I structured the frontend flow around:
+
+- Ad request lifecycle
+- Response normalization
+- Type-based rendering policy
+- Impression timing
+- Skeleton and layout stability
+- No-fill handling
+- External SDK fallback
+- UI post-processing
+- WebView re-entry stability
+
+This reduced repeated ad integration work from a multi-day task to a reusable system-level workflow.
+
+---
+
+### Hybrid WebView Lifecycle Stability
+
+Hybrid WebView environments fail in ways that ordinary web apps often do not.
+
+I have worked through issues involving:
+
+- App re-entry
+- Pull to Refresh
+- stale rendering
+- duplicate render requests
+- external SDK initialization timing
+- iframe-based isolation
+- layout collapse
+- native/web lifecycle mismatch
+
+For ad SDK integration, I treated the SDK as an external runtime rather than a simple dependency.
+
+Key implementation patterns included:
+
+- Promise-based SDK initialization control
+- container-level instance management
+- stale render prevention
+- render completion detection
+- fallback policy separation
+- preserve vs refresh rendering strategy
+- layout height stabilization before and after render
+
+The goal was not only to make the ad appear.  
+The goal was to make rendering predictable under unstable real-world app lifecycle conditions.
+
+---
+
+### `useAd` Common Ad Module
+
+I designed and implemented a common frontend module for ad rendering and fallback control.
+
+The module unified:
+
+- DMP ad request
+- response schema normalization
+- banner / icon / swiper / button / card rendering
+- no-fill handling
+- impression event handling
+- external SDK fallback
+- skeleton and layout policy
+- WebView re-entry behavior
+
+The important decision was to stop treating each ad surface as an isolated screen task.
+
+Instead, I treated ads as a frontend runtime with its own lifecycle, state transitions, and failure recovery path.
+
+```ts
+DMP Request
+  -> Normalize Response
+  -> Render by Type
+  -> Detect Exposure
+  -> Send Impression
+  -> Handle No-fill
+  -> Fallback Runtime
+  -> Stabilize Layout
