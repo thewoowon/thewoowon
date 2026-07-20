@@ -1,12 +1,15 @@
 # Won Woo
 
-**Frontend / Product Engineer**  
+**Frontend / Product Engineer**
 Boundary-first frontend architecture for business-critical products.
+
+**2026 WAIFC Young Academic Award — Top 3 Finalist**
+Selected to present at the WAIFC Annual General Meeting in Busan.
 
 I design frontend systems where product impact depends on rendering stability, lifecycle control, operational efficiency, and measurable user behavior.
 
-My main focus is not just building screens.  
-I focus on defining the right boundaries before the product grows too large to control.
+My focus is not limited to building screens.
+I define the boundaries that keep products stable, operable, and scalable as they grow.
 
 ---
 
